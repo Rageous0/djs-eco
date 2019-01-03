@@ -1,0 +1,25 @@
+{
+  "name": "djs-eco",
+  "version": "1.1.1",
+  "description": "A coins library made for use in discord.js.",
+  "main": "api.js",
+  "directories": {
+    "lib": "lib",
+    "conf": "conf"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "discord.js",
+    "djs",
+    "d.js",
+    "discordjs",
+    "discord"
+  ],
+  "author": "Rageous0",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.4.2"
+  }
+}
