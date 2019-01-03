@@ -132,3 +132,11 @@ This may be good for development purposes or debugging issues.
 You got ideas for djs-eco please send me a message over at Discord!
 
 My discord name+discriminator is: RageousGD#0666.
+
+
+
+**External Note**
+
+This README.md is not originally for this github repo.
+The original documentation comes from the npm page of the package located at:
+[djs-eco](https://www.npmjs.com/package/djs-eco)
