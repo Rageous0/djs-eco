@@ -1,3 +1,7 @@
+### DO NOT USE!
+**This README.md is faulty, the source is bad, please do not use it ever!**
+
+
 ## djs-eco
 
 
